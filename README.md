@@ -27,7 +27,7 @@
 
 #  Demo & Tests - دمو و تست‌ها
 
-- Tecnical Tester : [here](http://font-store.github.io/font-Behdad/online/)
+- Technical Tester : [here](http://font-store.github.io/font-Behdad/online/)
 - Survey 1 : [here](http://font-store.github.io/font-Behdad/tests/)
 - Typography example : [here](http://font-store.github.io/font-behdad/typography-persian.htm)
 - Paper demo : [here](http://font-store.github.io/font-behdad/paper-persian.htm)
